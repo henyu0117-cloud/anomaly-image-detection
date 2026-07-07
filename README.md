@@ -1,4 +1,4 @@
-# Abnormal Image Detection Project
+# Anomaly Image Detection Project
 ### 딥러닝 기반 이상치 탐지 및 MES 연동 시스템
 
 ## 프로젝트 목적
